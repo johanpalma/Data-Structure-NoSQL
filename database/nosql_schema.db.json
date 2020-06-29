@@ -1,0 +1,40 @@
+{
+    "_id":{"$oid":"5eeeac098112a95280e513ab"},
+    "name":"AIR VAN INC",
+    "scac":"Updated",
+    "mc":2234,
+    "dot":1321,
+    "created_at":{"$date":"2020-06-21T00:38:33.242Z"},
+    "__v":0
+}
+
+{
+    "_id":{"$oid":"5eeeaea956c18253d403fb55"},
+    "carrier_name":"AIR LAND DELIVERY SOLUTIONS INC",
+    "carrier_scac":"HELLO DELIVERY",
+    "pickup_date":{"$date":"2020-06-20T05:00:00.000Z"},
+    "delivery_date":{"$date":"2020-06-22T05:00:00.000Z"},
+    "status":"EXPIRED",
+    "origin_city":"Dalas",
+    "destination":"Las vegas",
+    "count_order":5,
+    "average_carrier_price":5000,
+    "total_carrier_price":6000,
+    "gasoline_prices":2000,
+    "created_at":{"$date":"2020-06-21T00:49:45.706Z"},
+    "__v":0
+}
+
+{
+    "_id":{"$oid":"5eeeaf86629b510efccb3836"},
+    "provider":"UPDATED",
+    "address":"CR# 83 CL# 91-13",
+    "phone":"3133196812",
+    "description_order":"rings",
+    "quantity":50,
+    "unit_price":200,
+    "total_price":500,
+    "delivery_date":{"$date":"2020-06-20T05:00:00.000Z"},
+    "created_at":{"$date":"2020-06-21T00:53:26.162Z"},
+    "__v":0
+}
